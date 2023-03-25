@@ -15,5 +15,8 @@
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "@types/chrome": "^0.0.225"
   }
 }
