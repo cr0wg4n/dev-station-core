@@ -1,6 +1,6 @@
 {
   "name": "dev-station-core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -8,8 +8,15 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "Mauricio Matias <cr0wg4n>",
+  "author": {
+    "name": "Mauricio Matias",
+    "url": "https://cr0wg4n.github.io"
+  },
   "license": "MIT",
+  "homepage": "https://github.com/cr0wg4n/dev-station-core",
+  "bugs": {
+    "url": "https://github.com/cr0wg4n/dev-station-core/issues"
+  },
   "devDependencies": {
     "typescript": "^5.0.2"
   },
