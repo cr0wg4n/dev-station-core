@@ -1,12 +1,9 @@
 {
   "name": "dev-station-core",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": [
-    "/dist"
-  ],
   "scripts": {
     "build": "tsc"
   },
@@ -18,5 +15,8 @@
   },
   "dependencies": {
     "@types/chrome": "^0.0.225"
+  },
+  "engines": {
+    "node": ">= 16.0.0"
   }
 }

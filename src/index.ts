@@ -5,7 +5,3 @@ export function sayHello() {
 export function sayGoodbye() {
     console.log('goodbye')
 }
-
-sayHello()
-
-sayGoodbye()
